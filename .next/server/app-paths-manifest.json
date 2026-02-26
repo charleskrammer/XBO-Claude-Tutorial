@@ -1,0 +1,11 @@
+{
+  "/manager/page": "app/manager/page.js",
+  "/page": "app/page.js",
+  "/login/page": "app/login/page.js",
+  "/path/page": "app/path/page.js",
+  "/step/[id]/page": "app/step/[id]/page.js",
+  "/api/assistant/route": "app/api/assistant/route.js",
+  "/api/dashboard/kpis/route": "app/api/dashboard/kpis/route.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/api/progress/route": "app/api/progress/route.js"
+}
